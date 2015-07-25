@@ -1,0 +1,27 @@
+.Title {
+	text-align: center;
+	margin-top: 110px;
+}
+.EnterItem {
+	display: inline-block;
+	text-align: center;
+	padding-left: 600px;
+}
+
+.Add {
+	display: inline-block;
+	padding-left: 120px;
+}
+
+.Items{
+	padding-left: 450px;
+}
+
+
+.Remove {
+	display: inline-block;
+}
+
+.Checkout {
+	text-align: center;
+}
