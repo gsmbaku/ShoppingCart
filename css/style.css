@@ -1,27 +1,41 @@
-.Title {
-	text-align: center;
-	margin-top: 110px;
-}
-.EnterItem {
-	display: inline-block;
-	text-align: center;
-	padding-left: 600px;
+#background{
+	width: 100%;
 }
 
-.Add {
-	display: inline-block;
-	padding-left: 120px;
+#Title{
+	width: 100%;
+	background-color: green;
+
 }
 
-.Items{
-	padding-left: 450px;
-}
-
-
-.Remove {
-	display: inline-block;
-}
-
-.Checkout {
+#Shop {
 	text-align: center;
 }
+
+#Input{
+	height: 10px;
+	width: 100px;
+	float: left;
+	padding-right: 50px;
+	margin-left: 500px;
+}
+
+#Add{
+
+	height: 20px;
+	width: 40px;
+	float: right;
+
+	margin-right: 500px;
+}
+
+.Items {
+	float: right;
+	margin-right: 650px;
+}
+
+#Checkout{
+	float: right;
+	margin-right: 600px;
+}
+
