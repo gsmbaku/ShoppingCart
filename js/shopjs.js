@@ -1,6 +1,9 @@
 $(document).ready(function() {
+	var thing = $("#input").val
     $('#add').click( (function(){
-        $('ul').append('<li>hi</li>');
+        $(".items").append("<li>+thing+"<button class="remove">Remove</button></li>);
     })
    });
+
+
 
