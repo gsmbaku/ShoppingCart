@@ -11,15 +11,26 @@
 }
 
 #shop {
+	color: #D8D8D8;
 	text-align: center;
+	background-color: #29293D;
+    width: 300px;
+    padding: 10px;
+    border: 5px solid black;
+    margin: 25px;
+    border-radius: 5px;
 }
 
 #input{
-
+	position: absolute;
+    left: 520px;
+    top: 205px;
 }
 
 #add{
-
+    position: absolute;
+    left: 720px;
+    top: 205px;
 }
 
 .items {
@@ -27,6 +38,31 @@
 }
 
 #checkout{
+    position: absolute;
+    left: 730px;
+    top: 355px;
+    z-index: 1;
+}
+.remove {
 
+}
+
+#title{
+	color: #D8D8D8;
+	border-radius: 5px;
+	background-color: #29293D;
+    width: 300px;
+    padding: 20px;
+    border: 5px solid black;
+    margin: 25px;
+}
+
+#foot{
+	background-color: #29293D;
+    width: 300px;
+    padding: 20px;
+    border: 5px solid black;
+    margin: 25px;
+    border-radius: 5px;
 }
 
