@@ -34,17 +34,12 @@
 }
 
 .items {
+    list-style: none;
 
 }
 
-#checkout{
-    position: absolute;
-    left: 730px;
-    top: 355px;
-    z-index: 1;
-}
 .remove {
-
+    
 }
 
 #title{
